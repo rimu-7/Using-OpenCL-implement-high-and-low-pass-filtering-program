@@ -36,5 +36,3 @@ Here is an example command to run the program:
 `bash`
     ![./image_processing input.jpg output_low_pass.jpg output_high_pass.jpg]
 
-    ![This is Low-pass image output](cpp_image_filtering/output_low_pass.jpg)
-    ![This is High-pass image output](cpp_image_filtering/output_high_pass.jpg)
